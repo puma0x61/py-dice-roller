@@ -7,4 +7,4 @@ This work was inspired by a similar one, written in java by [@JacopoDeAngelis](h
 Just run pyDiceRoller/ui.py: `$ python path/to/ui.py`
 
 ## License
-This piece of code is licensed with the MIT license
+This piece of code is licensed with the [MIT license](https://github.com/PumaConcolor/py-dice-roller/blob/master/LICENSE)
