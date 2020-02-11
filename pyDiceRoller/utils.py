@@ -1,11 +1,13 @@
 
-welcome_message = 'Welcome to pyDiceRoller, a simple python script to easily \
-                    roll dice and roll the ability scores for your next DnD \
-                    character!'
-mod_select_message = 'What do you want to do?\n[0] to roll your ability scores\
-                        \n[1] to roll a dice\n[2] to re-roll one or more of your ability scores\
-                        \n[3] to exit\n'
-dice_select_message = 'Which die will you roll? d'
+welcome_message = 'Welcome to pyDiceRoller, a simple python script to easily' + \
+        'roll dice and roll the ability scores for your next DnD character!\n' + \
+        '\nThis software is pretty smart, but it won\'t save you from ' + \
+        'doing stupid things.'
+mod_select_message = 'What do you want to do?\n[0] to roll your ability scores' + \
+        '\n[1] to roll a dice\n[2] to re-roll one or more of your ability ' + \
+        'scores\n[3] to exit\n'
+dice_select_message = 'Remember: all dice are possible, but why would you ' + \
+        'need a d1?\nWhich die will you roll? d'
 dice_number_message = 'how many dice? '
 score_dice_number_message = 'how many abilities went to shit? '
 farewell_message = 'Good Game!'
